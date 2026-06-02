@@ -34,7 +34,7 @@ Nesta seção, destaco a implementação que melhor reflete minha stack e meus e
 
 <div align="center">
   <a href="https://github.com/will-ferr/BuscadorPromo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=will-ferr&repo=BuscadorPromo&theme=react&border_color=0FAAFF&bg_color=0D1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9" width="450" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=will-ferr&repo=BuscadorPromo&theme=react&border_color=0FAAFF&bg_color=0D1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9" width="450" />
   </a>
 </div>
 
@@ -68,8 +68,8 @@ Nesta seção, destaco a implementação que melhor reflete minha stack e meus e
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=will-ferr&show_icons=true&theme=react&bg_color=0D1117&border_color=0FAAFF&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-ferr&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=0FAAFF&title_color=0FAAFF&text_color=c9d1d9&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=will-ferr&show_icons=true&theme=react&bg_color=0D1117&border_color=0FAAFF&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=will-ferr&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=0FAAFF&title_color=0FAAFF&text_color=c9d1d9&hide_border=true" width="48%" />
 </div>
 
 <br>
